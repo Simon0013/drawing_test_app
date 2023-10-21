@@ -1,0 +1,16 @@
+C:\Users\VitSpec\source\repos\FastReportsTestApp\FastReportsTestApp\bin\Debug\net7.0-windows\FastReportsTestApp.exe
+C:\Users\VitSpec\source\repos\FastReportsTestApp\FastReportsTestApp\bin\Debug\net7.0-windows\FastReportsTestApp.deps.json
+C:\Users\VitSpec\source\repos\FastReportsTestApp\FastReportsTestApp\bin\Debug\net7.0-windows\FastReportsTestApp.runtimeconfig.json
+C:\Users\VitSpec\source\repos\FastReportsTestApp\FastReportsTestApp\bin\Debug\net7.0-windows\FastReportsTestApp.dll
+C:\Users\VitSpec\source\repos\FastReportsTestApp\FastReportsTestApp\bin\Debug\net7.0-windows\FastReportsTestApp.pdb
+C:\Users\VitSpec\source\repos\FastReportsTestApp\FastReportsTestApp\obj\Debug\net7.0-windows\FastReportsTestApp.Form1.resources
+C:\Users\VitSpec\source\repos\FastReportsTestApp\FastReportsTestApp\obj\Debug\net7.0-windows\FastReportsTestApp.csproj.GenerateResource.cache
+C:\Users\VitSpec\source\repos\FastReportsTestApp\FastReportsTestApp\obj\Debug\net7.0-windows\FastReportsTestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VitSpec\source\repos\FastReportsTestApp\FastReportsTestApp\obj\Debug\net7.0-windows\FastReportsTestApp.AssemblyInfoInputs.cache
+C:\Users\VitSpec\source\repos\FastReportsTestApp\FastReportsTestApp\obj\Debug\net7.0-windows\FastReportsTestApp.AssemblyInfo.cs
+C:\Users\VitSpec\source\repos\FastReportsTestApp\FastReportsTestApp\obj\Debug\net7.0-windows\FastReportsTestApp.csproj.CoreCompileInputs.cache
+C:\Users\VitSpec\source\repos\FastReportsTestApp\FastReportsTestApp\obj\Debug\net7.0-windows\FastReportsTestApp.dll
+C:\Users\VitSpec\source\repos\FastReportsTestApp\FastReportsTestApp\obj\Debug\net7.0-windows\refint\FastReportsTestApp.dll
+C:\Users\VitSpec\source\repos\FastReportsTestApp\FastReportsTestApp\obj\Debug\net7.0-windows\FastReportsTestApp.pdb
+C:\Users\VitSpec\source\repos\FastReportsTestApp\FastReportsTestApp\obj\Debug\net7.0-windows\FastReportsTestApp.genruntimeconfig.cache
+C:\Users\VitSpec\source\repos\FastReportsTestApp\FastReportsTestApp\obj\Debug\net7.0-windows\ref\FastReportsTestApp.dll
